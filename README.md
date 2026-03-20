@@ -2,13 +2,11 @@
 
 <div align="center">
 
-**Teerapong Panboonyuen**<br/>
+<b>Teerapong Panboonyuen</b><br/>
 
 MARSAIL (Motor AI Recognition Solution Artificial Intelligence Laboratory)<br/>
 
-<!-- 🎓 Supported by the Talent Scholarship for Exceptional Ability --><br/>
-
-**Preprint on arXiv (March 2026)** 📄<br/>
+<b>Preprint on arXiv (March 2026)</b> 📄<br/>
 arXiv: <a href="https://arxiv.org/abs/2603.18502">2603.18502</a><br/>
 
 </div>
